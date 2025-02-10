@@ -10,7 +10,7 @@ This project aims to create a tests for my aituse2327 token smart contract. The 
   
 ## Installation
 
-1. Download test.js and contract.sol.
+1. Download test.js and aituse2327.sol.
 2. Initialize hardhat project.
 3. Put contract in tests folder
 4. Run hardhat project
